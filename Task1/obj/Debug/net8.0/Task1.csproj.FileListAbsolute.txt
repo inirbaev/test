@@ -1,0 +1,14 @@
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfoInputs.cache
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.AssemblyInfo.cs
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.csproj.CoreCompileInputs.cache
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/bin/Debug/net8.0/Task1
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/bin/Debug/net8.0/Task1.deps.json
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/bin/Debug/net8.0/Task1.runtimeconfig.json
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/bin/Debug/net8.0/Task1.dll
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/bin/Debug/net8.0/Task1.pdb
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.dll
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/refint/Task1.dll
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.pdb
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/Task1.genruntimeconfig.cache
+/Users/ali/Desktop/lessons/c#/lesson1/Task1/obj/Debug/net8.0/ref/Task1.dll
